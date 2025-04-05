@@ -1,4 +1,3 @@
-[![npm package][npm-coreui-react-badge]][npm-coreui-react]
 [![NPM downloads][npm-coreui-react-download]][npm-coreui-react]  
 
 [npm-coreui]: https://www.npmjs.com/package/@coreui/coreui
