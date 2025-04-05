@@ -1,4 +1,3 @@
-[![NPM downloads][npm-coreui-download]][npm-coreui]
 [![@coreui react](https://img.shields.io/badge/@coreui%20-react-lightgrey.svg?style=flat-square)](https://github.com/coreui/react)
 [![npm package][npm-coreui-react-badge]][npm-coreui-react]
 [![NPM downloads][npm-coreui-react-download]][npm-coreui-react]  
